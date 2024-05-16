@@ -10,7 +10,7 @@ body{
     background-color: black;
 }
 .main{
-    background-image: url(assets/images/background\ img.jpg);
+    background-image: url(./background\ img.jpg);
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
